@@ -10,7 +10,7 @@ def get_help():
     This will print an overview of the available modules and functions.
 
     Available Modules:
-    ------------------
+    -------------------
     - memory_profiler: Tracks memory usage of Python scripts and RAM info.
         - runtime profiler
     - profiler: Profiling tools for CPU, function execution and track timing.
