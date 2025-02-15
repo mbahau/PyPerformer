@@ -1,0 +1,1824 @@
+2025-02-15 23:13:02,080 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 143.61 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47172.16 MB     | 88.64%
+2025-02-15 23:13:02,086 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:06,090 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47171.88 MB     | 88.64%
+2025-02-15 23:13:06,090 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:10,095 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47171.39 MB     | 88.63%
+2025-02-15 23:13:10,095 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:14,099 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47183.78 MB     | 88.66%
+2025-02-15 23:13:14,099 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:18,102 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47182.06 MB     | 88.65%
+2025-02-15 23:13:18,103 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:22,106 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47176.59 MB     | 88.64%
+2025-02-15 23:13:22,107 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:26,111 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47175.61 MB     | 88.64%
+2025-02-15 23:13:26,111 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:30,115 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47182.70 MB     | 88.66%
+2025-02-15 23:13:30,116 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:34,120 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47189.82 MB     | 88.67%
+2025-02-15 23:13:34,120 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:38,125 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47172.38 MB     | 88.64%
+2025-02-15 23:13:38,125 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:42,129 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47129.01 MB     | 88.56%
+2025-02-15 23:13:42,129 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:46,133 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47120.34 MB     | 88.54%
+2025-02-15 23:13:46,135 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:50,139 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47119.87 MB     | 88.54%
+2025-02-15 23:13:50,139 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:54,143 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47119.14 MB     | 88.54%
+2025-02-15 23:13:54,143 - INFO - ---------------------------------------------
+
+2025-02-15 23:13:58,146 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47108.03 MB     | 88.52%
+2025-02-15 23:13:58,147 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:02,150 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47106.81 MB     | 88.51%
+2025-02-15 23:14:02,150 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:06,155 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47106.83 MB     | 88.51%
+2025-02-15 23:14:06,155 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:10,159 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47105.61 MB     | 88.51%
+2025-02-15 23:14:10,159 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:14,162 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47105.12 MB     | 88.51%
+2025-02-15 23:14:14,163 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:18,168 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47104.63 MB     | 88.51%
+2025-02-15 23:14:18,168 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:22,171 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47104.16 MB     | 88.51%
+2025-02-15 23:14:22,172 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:26,175 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47104.40 MB     | 88.51%
+2025-02-15 23:14:26,175 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:30,179 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47111.05 MB     | 88.52%
+2025-02-15 23:14:30,179 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:34,182 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47110.32 MB     | 88.52%
+2025-02-15 23:14:34,183 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:38,186 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47109.82 MB     | 88.52%
+2025-02-15 23:14:38,187 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:42,190 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47109.82 MB     | 88.52%
+2025-02-15 23:14:42,190 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:46,195 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47109.40 MB     | 88.52%
+2025-02-15 23:14:46,195 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:50,198 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47108.91 MB     | 88.52%
+2025-02-15 23:14:50,199 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:54,202 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47146.66 MB     | 88.59%
+2025-02-15 23:14:54,203 - INFO - ---------------------------------------------
+
+2025-02-15 23:14:58,206 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47122.99 MB     | 88.54%
+2025-02-15 23:14:58,207 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:02,211 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47110.76 MB     | 88.52%
+2025-02-15 23:15:02,212 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:06,215 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47107.82 MB     | 88.52%
+2025-02-15 23:15:06,215 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:10,218 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47108.86 MB     | 88.52%
+2025-02-15 23:15:10,219 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:14,222 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47108.86 MB     | 88.52%
+2025-02-15 23:15:14,223 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:18,226 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47153.71 MB     | 88.60%
+2025-02-15 23:15:18,227 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:22,231 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47158.82 MB     | 88.61%
+2025-02-15 23:15:22,231 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:26,235 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47164.80 MB     | 88.62%
+2025-02-15 23:15:26,235 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:30,239 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47169.20 MB     | 88.63%
+2025-02-15 23:15:30,240 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:34,243 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47169.70 MB     | 88.63%
+2025-02-15 23:15:34,245 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:38,249 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47187.58 MB     | 88.67%
+2025-02-15 23:15:38,249 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:42,253 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47188.09 MB     | 88.67%
+2025-02-15 23:15:42,255 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:46,258 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47201.60 MB     | 88.69%
+2025-02-15 23:15:46,259 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:50,262 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47202.10 MB     | 88.69%
+2025-02-15 23:15:50,263 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:54,268 - INFO - --- Resource Info ---
+    Memory Used: 143.61 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1106.85 MB       | 2.08%
+    Memory Available: 47185.88 MB     | 88.66%
+2025-02-15 23:15:54,268 - INFO - ---------------------------------------------
+
+2025-02-15 23:15:58,272 - INFO - --- Resource Info ---
+    Memory Used: 177.83 MB       | 0.33%
+    Memory Increment: 34.22 MB     | 23.83%
+    Max Memory Used: 1221.25 MB       | 2.29%
+    Memory Available: 47164.81 MB     | 88.62%
+2025-02-15 23:15:58,278 - INFO - ---------------------------------------------
+
+2025-02-15 23:16:00,290 - INFO - --- Resource Info ---
+    Memory Used: 178.34 MB       | 0.34%
+    Memory Increment: 178.34 MB     | 0.00%
+    Max Memory Used: 1221.25 MB       | 2.29%
+    Memory Available: 47164.94 MB     | 88.62%
+2025-02-15 23:16:00,290 - INFO - ---------------------------------------------
+
+2025-02-15 23:16:02,281 - INFO - --- Resource Info ---
+    Memory Used: 178.34 MB       | 0.34%
+    Memory Increment: 0.51 MB     | 0.29%
+    Max Memory Used: 1221.25 MB       | 2.29%
+    Memory Available: 47165.68 MB     | 88.62%
+2025-02-15 23:16:02,288 - INFO - ---------------------------------------------
+
+2025-02-15 23:16:04,295 - INFO - --- Resource Info ---
+    Memory Used: 151.73 MB       | 0.29%
+    Memory Increment: -26.61 MB     | -14.92%
+    Max Memory Used: 1194.25 MB       | 2.24%
+    Memory Available: 47199.89 MB     | 88.69%
+2025-02-15 23:16:04,296 - INFO - ---------------------------------------------
+
+2025-02-15 23:16:06,292 - INFO - --- Resource Info ---
+    Memory Used: 151.73 MB       | 0.29%
+    Memory Increment: -26.61 MB     | -14.92%
+    Max Memory Used: 1194.25 MB       | 2.24%
+    Memory Available: 47198.61 MB     | 88.69%
+2025-02-15 23:16:06,292 - INFO - ---------------------------------------------
+
+2025-02-15 23:16:08,299 - INFO - --- Resource Info ---
+    Memory Used: 151.73 MB       | 0.29%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1194.25 MB       | 2.24%
+    Memory Available: 47195.69 MB     | 88.68%
+2025-02-15 23:16:08,300 - INFO - ---------------------------------------------
+
+2025-02-15 23:17:36,685 - INFO - --- Resource Info ---
+    Memory Used: 181.05 MB       | 0.34%
+    Memory Increment: 181.05 MB     | 0.00%
+    Max Memory Used: 1143.89 MB       | 2.15%
+    Memory Available: 47232.92 MB     | 88.75%
+2025-02-15 23:17:36,687 - INFO - ---------------------------------------------
+
+2025-02-15 23:17:38,688 - INFO - --- Resource Info ---
+    Memory Used: 182.08 MB       | 0.34%
+    Memory Increment: 1.03 MB     | 0.57%
+    Max Memory Used: 1144.89 MB       | 2.15%
+    Memory Available: 47226.95 MB     | 88.74%
+2025-02-15 23:17:38,695 - INFO - ---------------------------------------------
+
+2025-02-15 23:17:40,696 - INFO - --- Resource Info ---
+    Memory Used: 146.77 MB       | 0.28%
+    Memory Increment: -35.30 MB     | -19.39%
+    Max Memory Used: 1108.83 MB       | 2.08%
+    Memory Available: 47250.09 MB     | 88.78%
+2025-02-15 23:17:40,697 - INFO - ---------------------------------------------
+
+2025-02-15 23:18:53,822 - INFO - --- Resource Info ---
+    Memory Used: 183.11 MB       | 0.34%
+    Memory Increment: 183.11 MB     | 0.00%
+    Max Memory Used: 1143.89 MB       | 2.15%
+    Memory Available: 47164.62 MB     | 88.62%
+2025-02-15 23:18:53,825 - INFO - ---------------------------------------------
+
+2025-02-15 23:18:55,826 - INFO - --- Resource Info ---
+    Memory Used: 184.13 MB       | 0.35%
+    Memory Increment: 1.02 MB     | 0.56%
+    Max Memory Used: 1144.89 MB       | 2.15%
+    Memory Available: 47163.64 MB     | 88.62%
+2025-02-15 23:18:55,836 - INFO - ---------------------------------------------
+
+2025-02-15 23:18:57,837 - INFO - --- Resource Info ---
+    Memory Used: 150.06 MB       | 0.28%
+    Memory Increment: -34.07 MB     | -18.51%
+    Max Memory Used: 1109.84 MB       | 2.09%
+    Memory Available: 47188.76 MB     | 88.67%
+2025-02-15 23:18:57,838 - INFO - ---------------------------------------------
+
+2025-02-15 23:18:59,839 - INFO - --- Resource Info ---
+    Memory Used: 150.06 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.84 MB       | 2.09%
+    Memory Available: 47188.76 MB     | 88.67%
+2025-02-15 23:18:59,840 - INFO - ---------------------------------------------
+
+2025-02-15 23:19:01,841 - INFO - --- Resource Info ---
+    Memory Used: 150.06 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.84 MB       | 2.09%
+    Memory Available: 47190.20 MB     | 88.67%
+2025-02-15 23:19:01,842 - INFO - ---------------------------------------------
+
+2025-02-15 23:20:51,470 - INFO - --- Resource Info ---
+    Memory Used: 180.34 MB       | 0.34%
+    Memory Increment: 180.34 MB     | 0.00%
+    Max Memory Used: 1142.70 MB       | 2.15%
+    Memory Available: 47127.16 MB     | 88.55%
+2025-02-15 23:20:51,471 - INFO - Line: 29, Function: wrapper, File: /tmp/ipykernel_48416/1634133118.py
+2025-02-15 23:20:51,472 - INFO - Code: result = old_func(*args, **kwargs)
+2025-02-15 23:20:51,472 - INFO - Line: 9, Function: <module>, File: <ipython-input-1-3ff08e31ae01>
+2025-02-15 23:20:51,473 - INFO - Code: sample_function()
+2025-02-15 23:20:51,475 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-3ff08e31ae01>
+2025-02-15 23:20:51,475 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:20:51,475 - INFO - ---------------------------------------------
+
+2025-02-15 23:20:53,477 - INFO - --- Resource Info ---
+    Memory Used: 181.36 MB       | 0.34%
+    Memory Increment: 1.03 MB     | 0.57%
+    Max Memory Used: 1143.70 MB       | 2.15%
+    Memory Available: 47125.21 MB     | 88.55%
+2025-02-15 23:20:53,482 - INFO - ---------------------------------------------
+
+2025-02-15 23:20:55,485 - INFO - --- Resource Info ---
+    Memory Used: 146.11 MB       | 0.27%
+    Memory Increment: -35.25 MB     | -19.44%
+    Max Memory Used: 1107.64 MB       | 2.08%
+    Memory Available: 47154.98 MB     | 88.60%
+2025-02-15 23:20:55,485 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:18,176 - INFO - --- Resource Info ---
+    Memory Used: 179.05 MB       | 0.34%
+    Memory Increment: 179.05 MB     | 0.00%
+    Max Memory Used: 1143.70 MB       | 2.15%
+    Memory Available: 47198.97 MB     | 88.69%
+2025-02-15 23:21:18,178 - INFO - Line: 29, Function: wrapper, File: /tmp/ipykernel_48458/1634133118.py
+2025-02-15 23:21:18,178 - INFO - Code: result = old_func(*args, **kwargs)
+2025-02-15 23:21:18,178 - INFO - Line: 9, Function: <module>, File: <ipython-input-1-3ff08e31ae01>
+2025-02-15 23:21:18,178 - INFO - Code: sample_function()
+2025-02-15 23:21:18,178 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-3ff08e31ae01>
+2025-02-15 23:21:18,178 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:21:18,179 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:20,180 - INFO - --- Resource Info ---
+    Memory Used: 180.07 MB       | 0.34%
+    Memory Increment: 1.03 MB     | 0.57%
+    Max Memory Used: 1144.70 MB       | 2.15%
+    Memory Available: 47197.25 MB     | 88.68%
+2025-02-15 23:21:20,186 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:22,188 - INFO - --- Resource Info ---
+    Memory Used: 144.96 MB       | 0.27%
+    Memory Increment: -35.12 MB     | -19.50%
+    Max Memory Used: 1108.64 MB       | 2.08%
+    Memory Available: 47230.02 MB     | 88.74%
+2025-02-15 23:21:22,188 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:24,190 - INFO - --- Resource Info ---
+    Memory Used: 144.96 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.64 MB       | 2.08%
+    Memory Available: 47230.76 MB     | 88.75%
+2025-02-15 23:21:24,191 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:26,193 - INFO - --- Resource Info ---
+    Memory Used: 144.96 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.64 MB       | 2.08%
+    Memory Available: 47230.76 MB     | 88.75%
+2025-02-15 23:21:26,195 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:28,196 - INFO - --- Resource Info ---
+    Memory Used: 144.96 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.64 MB       | 2.08%
+    Memory Available: 47225.14 MB     | 88.74%
+2025-02-15 23:21:28,196 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:30,198 - INFO - --- Resource Info ---
+    Memory Used: 144.96 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.64 MB       | 2.08%
+    Memory Available: 47225.14 MB     | 88.74%
+2025-02-15 23:21:30,198 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:32,199 - INFO - --- Resource Info ---
+    Memory Used: 144.96 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.64 MB       | 2.08%
+    Memory Available: 47226.61 MB     | 88.74%
+2025-02-15 23:21:32,200 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:34,202 - INFO - --- Resource Info ---
+    Memory Used: 144.96 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.64 MB       | 2.08%
+    Memory Available: 47226.47 MB     | 88.74%
+2025-02-15 23:21:34,203 - INFO - ---------------------------------------------
+
+2025-02-15 23:21:36,205 - INFO - --- Resource Info ---
+    Memory Used: 144.96 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.64 MB       | 2.08%
+    Memory Available: 47226.65 MB     | 88.74%
+2025-02-15 23:21:36,206 - INFO - ---------------------------------------------
+
+2025-02-15 23:23:13,625 - INFO - --- Resource Info ---
+    Memory Used: 181.16 MB       | 0.34%
+    Memory Increment: 181.16 MB     | 0.00%
+    Max Memory Used: 1143.89 MB       | 2.15%
+    Memory Available: 47199.99 MB     | 88.69%
+2025-02-15 23:23:13,627 - INFO - Line: 196, Function: _run_module_as_main, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/runpy.py
+2025-02-15 23:23:13,627 - INFO - Code: return _run_code(code, main_globals, None,
+2025-02-15 23:23:13,628 - INFO - Line: 86, Function: _run_code, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/runpy.py
+2025-02-15 23:23:13,628 - INFO - Code: exec(code, run_globals)
+2025-02-15 23:23:13,628 - INFO - Line: 1043, Function: launch_instance, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/traitlets/config/application.py
+2025-02-15 23:23:13,628 - INFO - Code: app.start()
+2025-02-15 23:23:13,628 - INFO - Line: 195, Function: start, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/tornado/platform/asyncio.py
+2025-02-15 23:23:13,628 - INFO - Code: self.asyncio_loop.run_forever()
+2025-02-15 23:23:13,629 - INFO - Line: 600, Function: run_forever, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/asyncio/base_events.py
+2025-02-15 23:23:13,629 - INFO - Code: self._run_once()
+2025-02-15 23:23:13,629 - INFO - Line: 1896, Function: _run_once, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/asyncio/base_events.py
+2025-02-15 23:23:13,629 - INFO - Code: handle._run()
+2025-02-15 23:23:13,629 - INFO - Line: 80, Function: _run, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/asyncio/events.py
+2025-02-15 23:23:13,629 - INFO - Code: self._context.run(self._callback, *self._args)
+2025-02-15 23:23:13,629 - INFO - Line: 29, Function: wrapper, File: /tmp/ipykernel_48504/1634133118.py
+2025-02-15 23:23:13,629 - INFO - Code: result = old_func(*args, **kwargs)
+2025-02-15 23:23:13,630 - INFO - Line: 3009, Function: run_cell, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/IPython/core/interactiveshell.py
+2025-02-15 23:23:13,630 - INFO - Code: result = self._run_cell(
+2025-02-15 23:23:13,630 - INFO - Line: 3064, Function: _run_cell, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/IPython/core/interactiveshell.py
+2025-02-15 23:23:13,630 - INFO - Code: result = runner(coro)
+2025-02-15 23:23:13,630 - INFO - Line: 129, Function: _pseudo_sync_runner, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/IPython/core/async_helpers.py
+2025-02-15 23:23:13,630 - INFO - Code: coro.send(None)
+2025-02-15 23:23:13,630 - INFO - Line: 3269, Function: run_cell_async, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/IPython/core/interactiveshell.py
+2025-02-15 23:23:13,631 - INFO - Code: has_raised = await self.run_ast_nodes(code_ast.body, cell_name,
+2025-02-15 23:23:13,631 - INFO - Line: 3448, Function: run_ast_nodes, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/IPython/core/interactiveshell.py
+2025-02-15 23:23:13,631 - INFO - Code: if await self.run_code(code, result, async_=asy):
+2025-02-15 23:23:13,631 - INFO - Line: 3508, Function: run_code, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/IPython/core/interactiveshell.py
+2025-02-15 23:23:13,631 - INFO - Code: exec(code_obj, self.user_global_ns, self.user_ns)
+2025-02-15 23:23:13,631 - INFO - Line: 9, Function: <module>, File: <ipython-input-1-3ff08e31ae01>
+2025-02-15 23:23:13,631 - INFO - Code: sample_function()
+2025-02-15 23:23:13,631 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-3ff08e31ae01>
+2025-02-15 23:23:13,632 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:23:13,632 - INFO - ---------------------------------------------
+
+2025-02-15 23:23:15,633 - INFO - --- Resource Info ---
+    Memory Used: 182.18 MB       | 0.34%
+    Memory Increment: 1.03 MB     | 0.57%
+    Max Memory Used: 1144.89 MB       | 2.15%
+    Memory Available: 47199.77 MB     | 88.69%
+2025-02-15 23:23:15,639 - INFO - Line: 196, Function: _run_module_as_main, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/runpy.py
+2025-02-15 23:23:15,639 - INFO - Code: return _run_code(code, main_globals, None,
+2025-02-15 23:23:15,640 - INFO - Line: 86, Function: _run_code, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/runpy.py
+2025-02-15 23:23:15,640 - INFO - Code: exec(code, run_globals)
+2025-02-15 23:23:15,640 - INFO - Line: 1043, Function: launch_instance, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/traitlets/config/application.py
+2025-02-15 23:23:15,640 - INFO - Code: app.start()
+2025-02-15 23:23:15,640 - INFO - Line: 195, Function: start, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/tornado/platform/asyncio.py
+2025-02-15 23:23:15,640 - INFO - Code: self.asyncio_loop.run_forever()
+2025-02-15 23:23:15,641 - INFO - Line: 600, Function: run_forever, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/asyncio/base_events.py
+2025-02-15 23:23:15,641 - INFO - Code: self._run_once()
+2025-02-15 23:23:15,641 - INFO - Line: 1860, Function: _run_once, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/asyncio/base_events.py
+2025-02-15 23:23:15,641 - INFO - Code: event_list = self._selector.select(timeout)
+2025-02-15 23:23:15,642 - INFO - Line: 469, Function: select, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/selectors.py
+2025-02-15 23:23:15,642 - INFO - Code: fd_event_list = self._selector.poll(timeout, max_ev)
+2025-02-15 23:23:15,642 - INFO - ---------------------------------------------
+
+2025-02-15 23:23:17,645 - INFO - --- Resource Info ---
+    Memory Used: 147.03 MB       | 0.28%
+    Memory Increment: -35.15 MB     | -19.30%
+    Max Memory Used: 1108.83 MB       | 2.08%
+    Memory Available: 47224.10 MB     | 88.73%
+2025-02-15 23:23:17,645 - INFO - Line: 196, Function: _run_module_as_main, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/runpy.py
+2025-02-15 23:23:17,645 - INFO - Code: return _run_code(code, main_globals, None,
+2025-02-15 23:23:17,645 - INFO - Line: 86, Function: _run_code, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/runpy.py
+2025-02-15 23:23:17,646 - INFO - Code: exec(code, run_globals)
+2025-02-15 23:23:17,646 - INFO - Line: 1043, Function: launch_instance, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/traitlets/config/application.py
+2025-02-15 23:23:17,646 - INFO - Code: app.start()
+2025-02-15 23:23:17,646 - INFO - Line: 195, Function: start, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/site-packages/tornado/platform/asyncio.py
+2025-02-15 23:23:17,646 - INFO - Code: self.asyncio_loop.run_forever()
+2025-02-15 23:23:17,646 - INFO - Line: 600, Function: run_forever, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/asyncio/base_events.py
+2025-02-15 23:23:17,647 - INFO - Code: self._run_once()
+2025-02-15 23:23:17,647 - INFO - Line: 1860, Function: _run_once, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/asyncio/base_events.py
+2025-02-15 23:23:17,647 - INFO - Code: event_list = self._selector.select(timeout)
+2025-02-15 23:23:17,647 - INFO - Line: 469, Function: select, File: /home/mdbahauddinlinux/anaconda3/envs/PMM_Oct24/lib/python3.10/selectors.py
+2025-02-15 23:23:17,647 - INFO - Code: fd_event_list = self._selector.poll(timeout, max_ev)
+2025-02-15 23:23:17,647 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:03,148 - INFO - --- Resource Info ---
+    Memory Used: 178.81 MB       | 0.34%
+    Memory Increment: 178.81 MB     | 0.00%
+    Max Memory Used: 1143.69 MB       | 2.15%
+    Memory Available: 47194.27 MB     | 88.68%
+2025-02-15 23:24:03,150 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:05,151 - INFO - --- Resource Info ---
+    Memory Used: 179.84 MB       | 0.34%
+    Memory Increment: 1.03 MB     | 0.57%
+    Max Memory Used: 1143.69 MB       | 2.15%
+    Memory Available: 47194.05 MB     | 88.68%
+2025-02-15 23:24:05,158 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:07,160 - INFO - --- Resource Info ---
+    Memory Used: 145.54 MB       | 0.27%
+    Memory Increment: -34.30 MB     | -19.07%
+    Max Memory Used: 1108.63 MB       | 2.08%
+    Memory Available: 47224.05 MB     | 88.73%
+2025-02-15 23:24:07,161 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:09,163 - INFO - --- Resource Info ---
+    Memory Used: 145.54 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.63 MB       | 2.08%
+    Memory Available: 47224.05 MB     | 88.73%
+2025-02-15 23:24:09,165 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:11,166 - INFO - --- Resource Info ---
+    Memory Used: 145.54 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.63 MB       | 2.08%
+    Memory Available: 47225.03 MB     | 88.74%
+2025-02-15 23:24:11,166 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:42,005 - INFO - --- Resource Info ---
+    Memory Used: 178.84 MB       | 0.34%
+    Memory Increment: 178.84 MB     | 0.00%
+    Max Memory Used: 1143.89 MB       | 2.15%
+    Memory Available: 47161.24 MB     | 88.62%
+2025-02-15 23:24:42,006 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:44,008 - INFO - --- Resource Info ---
+    Memory Used: 218.01 MB       | 0.41%
+    Memory Increment: 39.17 MB     | 21.90%
+    Max Memory Used: 1183.95 MB       | 2.22%
+    Memory Available: 47122.38 MB     | 88.54%
+2025-02-15 23:24:44,015 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:46,017 - INFO - --- Resource Info ---
+    Memory Used: 216.32 MB       | 0.41%
+    Memory Increment: -1.68 MB     | -0.77%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47124.54 MB     | 88.55%
+2025-02-15 23:24:46,022 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:48,025 - INFO - --- Resource Info ---
+    Memory Used: 216.46 MB       | 0.41%
+    Memory Increment: 0.14 MB     | 0.07%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47119.55 MB     | 88.54%
+2025-02-15 23:24:48,029 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:50,030 - INFO - --- Resource Info ---
+    Memory Used: 216.45 MB       | 0.41%
+    Memory Increment: -0.01 MB     | -0.01%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47121.77 MB     | 88.54%
+2025-02-15 23:24:50,038 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:52,039 - INFO - --- Resource Info ---
+    Memory Used: 216.46 MB       | 0.41%
+    Memory Increment: 0.01 MB     | 0.01%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47120.39 MB     | 88.54%
+2025-02-15 23:24:52,046 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:54,047 - INFO - --- Resource Info ---
+    Memory Used: 216.41 MB       | 0.41%
+    Memory Increment: -0.06 MB     | -0.03%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47119.35 MB     | 88.54%
+2025-02-15 23:24:54,055 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:56,055 - INFO - --- Resource Info ---
+    Memory Used: 216.39 MB       | 0.41%
+    Memory Increment: -0.02 MB     | -0.01%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47118.61 MB     | 88.54%
+2025-02-15 23:24:56,065 - INFO - ---------------------------------------------
+
+2025-02-15 23:24:58,066 - INFO - --- Resource Info ---
+    Memory Used: 216.55 MB       | 0.41%
+    Memory Increment: 0.17 MB     | 0.08%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47115.91 MB     | 88.53%
+2025-02-15 23:24:58,070 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:00,072 - INFO - --- Resource Info ---
+    Memory Used: 216.49 MB       | 0.41%
+    Memory Increment: -0.07 MB     | -0.03%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47109.05 MB     | 88.52%
+2025-02-15 23:25:00,079 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:02,081 - INFO - --- Resource Info ---
+    Memory Used: 192.65 MB       | 0.36%
+    Memory Increment: -23.84 MB     | -11.01%
+    Max Memory Used: 1165.29 MB       | 2.19%
+    Memory Available: 47129.30 MB     | 88.56%
+2025-02-15 23:25:02,088 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:04,090 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: -47.86 MB     | -24.84%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.30 MB     | 88.64%
+2025-02-15 23:25:04,092 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:06,095 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47175.81 MB     | 88.64%
+2025-02-15 23:25:06,095 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:08,096 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47175.89 MB     | 88.64%
+2025-02-15 23:25:08,096 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:10,099 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47175.32 MB     | 88.64%
+2025-02-15 23:25:10,100 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:12,101 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.88 MB     | 88.64%
+2025-02-15 23:25:12,101 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:14,103 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47172.65 MB     | 88.64%
+2025-02-15 23:25:14,105 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:16,107 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47172.55 MB     | 88.64%
+2025-02-15 23:25:16,107 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:18,109 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47171.95 MB     | 88.64%
+2025-02-15 23:25:18,110 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:20,112 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.12 MB     | 88.64%
+2025-02-15 23:25:20,113 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:22,115 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47172.38 MB     | 88.64%
+2025-02-15 23:25:22,116 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:24,117 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47174.15 MB     | 88.64%
+2025-02-15 23:25:24,118 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:26,119 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.66 MB     | 88.64%
+2025-02-15 23:25:26,120 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:28,121 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.81 MB     | 88.64%
+2025-02-15 23:25:28,122 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:30,123 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47172.36 MB     | 88.64%
+2025-02-15 23:25:30,125 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:32,126 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47174.27 MB     | 88.64%
+2025-02-15 23:25:32,126 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:34,127 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.54 MB     | 88.64%
+2025-02-15 23:25:34,128 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:36,129 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47172.31 MB     | 88.64%
+2025-02-15 23:25:36,129 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:38,130 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47171.11 MB     | 88.63%
+2025-02-15 23:25:38,131 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:40,132 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47170.65 MB     | 88.63%
+2025-02-15 23:25:40,132 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:42,135 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47169.43 MB     | 88.63%
+2025-02-15 23:25:42,135 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:44,136 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47167.95 MB     | 88.63%
+2025-02-15 23:25:44,137 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:46,138 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47167.71 MB     | 88.63%
+2025-02-15 23:25:46,138 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:48,139 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.16 MB     | 88.64%
+2025-02-15 23:25:48,139 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:50,140 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47178.24 MB     | 88.65%
+2025-02-15 23:25:50,141 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:52,142 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47177.29 MB     | 88.65%
+2025-02-15 23:25:52,142 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:54,145 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47175.81 MB     | 88.64%
+2025-02-15 23:25:54,145 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:56,146 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47175.66 MB     | 88.64%
+2025-02-15 23:25:56,147 - INFO - ---------------------------------------------
+
+2025-02-15 23:25:58,148 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.64 MB     | 88.64%
+2025-02-15 23:25:58,148 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:00,149 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47175.88 MB     | 88.64%
+2025-02-15 23:26:00,150 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:02,151 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47174.96 MB     | 88.64%
+2025-02-15 23:26:02,151 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:04,152 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47174.65 MB     | 88.64%
+2025-02-15 23:26:04,152 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:06,155 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47174.41 MB     | 88.64%
+2025-02-15 23:26:06,155 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:08,156 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47172.93 MB     | 88.64%
+2025-02-15 23:26:08,157 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:10,158 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.43 MB     | 88.64%
+2025-02-15 23:26:10,158 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:12,159 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47172.45 MB     | 88.64%
+2025-02-15 23:26:12,160 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:14,161 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47171.47 MB     | 88.63%
+2025-02-15 23:26:14,161 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:16,162 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47171.72 MB     | 88.64%
+2025-02-15 23:26:16,165 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:18,166 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47171.23 MB     | 88.63%
+2025-02-15 23:26:18,166 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:20,167 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47170.07 MB     | 88.63%
+2025-02-15 23:26:20,168 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:22,169 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47170.80 MB     | 88.63%
+2025-02-15 23:26:22,169 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:24,170 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.11 MB     | 88.64%
+2025-02-15 23:26:24,171 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:26,172 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47172.99 MB     | 88.64%
+2025-02-15 23:26:26,172 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:28,175 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47174.61 MB     | 88.64%
+2025-02-15 23:26:28,175 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:30,177 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47175.59 MB     | 88.64%
+2025-02-15 23:26:30,177 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:32,179 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.34 MB     | 88.64%
+2025-02-15 23:26:32,179 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:34,180 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.58 MB     | 88.64%
+2025-02-15 23:26:34,181 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:36,182 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.72 MB     | 88.64%
+2025-02-15 23:26:36,182 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:38,185 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47178.80 MB     | 88.65%
+2025-02-15 23:26:38,185 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:40,186 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47179.26 MB     | 88.65%
+2025-02-15 23:26:40,187 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:42,188 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.84 MB     | 88.64%
+2025-02-15 23:26:42,188 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:44,189 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47177.20 MB     | 88.65%
+2025-02-15 23:26:44,190 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:46,191 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47194.44 MB     | 88.68%
+2025-02-15 23:26:46,192 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:48,195 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47190.75 MB     | 88.67%
+2025-02-15 23:26:48,195 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:50,197 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47190.29 MB     | 88.67%
+2025-02-15 23:26:50,197 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:52,199 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47190.25 MB     | 88.67%
+2025-02-15 23:26:52,200 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:54,201 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47189.29 MB     | 88.67%
+2025-02-15 23:26:54,202 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:56,205 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47189.29 MB     | 88.67%
+2025-02-15 23:26:56,205 - INFO - ---------------------------------------------
+
+2025-02-15 23:26:58,206 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47188.10 MB     | 88.67%
+2025-02-15 23:26:58,207 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:00,208 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.56 MB     | 88.64%
+2025-02-15 23:27:00,209 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:02,210 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.32 MB     | 88.64%
+2025-02-15 23:27:02,210 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:04,211 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47176.11 MB     | 88.64%
+2025-02-15 23:27:04,212 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:06,215 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47171.92 MB     | 88.64%
+2025-02-15 23:27:06,216 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:08,217 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47171.69 MB     | 88.64%
+2025-02-15 23:27:08,218 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:10,218 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47169.75 MB     | 88.63%
+2025-02-15 23:27:10,219 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:12,220 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47173.35 MB     | 88.64%
+2025-02-15 23:27:12,220 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:14,221 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47169.21 MB     | 88.63%
+2025-02-15 23:27:14,222 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:16,225 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47170.78 MB     | 88.63%
+2025-02-15 23:27:16,225 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:18,226 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47170.78 MB     | 88.63%
+2025-02-15 23:27:18,227 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:20,228 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47171.08 MB     | 88.63%
+2025-02-15 23:27:20,228 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:22,229 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47157.88 MB     | 88.61%
+2025-02-15 23:27:22,230 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:24,231 - INFO - --- Resource Info ---
+    Memory Used: 144.79 MB       | 0.27%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1108.01 MB       | 2.08%
+    Memory Available: 47155.98 MB     | 88.61%
+2025-02-15 23:27:24,232 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:27,768 - INFO - --- Resource Info ---
+    Memory Used: 180.78 MB       | 0.34%
+    Memory Increment: 180.78 MB     | 0.00%
+    Max Memory Used: 1143.70 MB       | 2.15%
+    Memory Available: 47125.95 MB     | 88.55%
+2025-02-15 23:27:27,769 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:27,770 - INFO - Code: sample_function()
+2025-02-15 23:27:27,770 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:27,770 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:27,770 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:28,771 - INFO - --- Resource Info ---
+    Memory Used: 181.80 MB       | 0.34%
+    Memory Increment: 1.03 MB     | 0.57%
+    Max Memory Used: 1144.70 MB       | 2.15%
+    Memory Available: 47125.75 MB     | 88.55%
+2025-02-15 23:27:28,771 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:28,772 - INFO - Code: sample_function()
+2025-02-15 23:27:28,772 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:28,775 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:28,775 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:29,776 - INFO - --- Resource Info ---
+    Memory Used: 220.13 MB       | 0.41%
+    Memory Increment: 38.33 MB     | 21.08%
+    Max Memory Used: 1183.75 MB       | 2.22%
+    Memory Available: 47087.14 MB     | 88.48%
+2025-02-15 23:27:29,780 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:29,780 - INFO - Code: sample_function()
+2025-02-15 23:27:29,781 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:29,781 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:29,781 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:30,781 - INFO - --- Resource Info ---
+    Memory Used: 185.82 MB       | 0.35%
+    Memory Increment: -34.31 MB     | -15.59%
+    Max Memory Used: 1148.70 MB       | 2.16%
+    Memory Available: 47126.76 MB     | 88.55%
+2025-02-15 23:27:30,782 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:30,782 - INFO - Code: sample_function()
+2025-02-15 23:27:30,782 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:30,782 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:30,783 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:31,785 - INFO - --- Resource Info ---
+    Memory Used: 218.50 MB       | 0.41%
+    Memory Increment: 32.68 MB     | 17.58%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47092.02 MB     | 88.49%
+2025-02-15 23:27:31,789 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:31,789 - INFO - Code: sample_function()
+2025-02-15 23:27:31,790 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:31,790 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:31,790 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:32,790 - INFO - --- Resource Info ---
+    Memory Used: 182.32 MB       | 0.34%
+    Memory Increment: -36.18 MB     | -16.56%
+    Max Memory Used: 1152.23 MB       | 2.17%
+    Memory Available: 47121.07 MB     | 88.54%
+2025-02-15 23:27:32,791 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:32,791 - INFO - Code: sample_function()
+2025-02-15 23:27:32,792 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:32,792 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:32,792 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:33,795 - INFO - --- Resource Info ---
+    Memory Used: 218.48 MB       | 0.41%
+    Memory Increment: 36.15 MB     | 19.83%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47085.60 MB     | 88.47%
+2025-02-15 23:27:33,800 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:33,801 - INFO - Code: sample_function()
+2025-02-15 23:27:33,801 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:33,802 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:33,802 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:34,803 - INFO - --- Resource Info ---
+    Memory Used: 192.89 MB       | 0.36%
+    Memory Increment: -25.59 MB     | -11.71%
+    Max Memory Used: 1163.29 MB       | 2.19%
+    Memory Available: 47111.44 MB     | 88.52%
+2025-02-15 23:27:34,805 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:34,805 - INFO - Code: sample_function()
+2025-02-15 23:27:34,805 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:34,806 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:34,806 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:35,806 - INFO - --- Resource Info ---
+    Memory Used: 218.41 MB       | 0.41%
+    Memory Increment: 25.52 MB     | 13.23%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47085.84 MB     | 88.47%
+2025-02-15 23:27:35,811 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:35,811 - INFO - Code: sample_function()
+2025-02-15 23:27:35,811 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:35,811 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:35,812 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:36,812 - INFO - --- Resource Info ---
+    Memory Used: 190.68 MB       | 0.36%
+    Memory Increment: -27.73 MB     | -12.70%
+    Max Memory Used: 1161.29 MB       | 2.18%
+    Memory Available: 47112.94 MB     | 88.52%
+2025-02-15 23:27:36,812 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:36,813 - INFO - Code: sample_function()
+2025-02-15 23:27:36,813 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:36,815 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:36,815 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:37,841 - INFO - --- Resource Info ---
+    Memory Used: 199.96 MB       | 0.38%
+    Memory Increment: 9.28 MB     | 4.87%
+    Max Memory Used: 1170.29 MB       | 2.20%
+    Memory Available: 47103.55 MB     | 88.51%
+2025-02-15 23:27:37,851 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:37,867 - INFO - Code: sample_function()
+2025-02-15 23:27:37,872 - INFO - Line: 6, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:37,878 - INFO - Code: data = [x**2 for x in range(1000000)]  # Allocate memory
+2025-02-15 23:27:37,885 - INFO - Line: 6, Function: <listcomp>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:37,890 - INFO - Code: data = [x**2 for x in range(1000000)]  # Allocate memory
+2025-02-15 23:27:37,895 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:38,901 - INFO - --- Resource Info ---
+    Memory Used: 187.75 MB       | 0.35%
+    Memory Increment: -12.21 MB     | -6.11%
+    Max Memory Used: 1158.29 MB       | 2.18%
+    Memory Available: 47114.51 MB     | 88.53%
+2025-02-15 23:27:38,902 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:38,903 - INFO - Code: sample_function()
+2025-02-15 23:27:38,905 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:38,905 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:38,905 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:39,906 - INFO - --- Resource Info ---
+    Memory Used: 187.75 MB       | 0.35%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1158.29 MB       | 2.18%
+    Memory Available: 47113.33 MB     | 88.53%
+2025-02-15 23:27:39,907 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:39,907 - INFO - Code: sample_function()
+2025-02-15 23:27:39,907 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:39,908 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:39,908 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:40,909 - INFO - --- Resource Info ---
+    Memory Used: 218.43 MB       | 0.41%
+    Memory Increment: 30.68 MB     | 16.34%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47082.46 MB     | 88.47%
+2025-02-15 23:27:40,916 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:40,916 - INFO - Code: sample_function()
+2025-02-15 23:27:40,917 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:40,917 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:40,917 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:41,918 - INFO - --- Resource Info ---
+    Memory Used: 194.62 MB       | 0.37%
+    Memory Increment: -23.81 MB     | -10.90%
+    Max Memory Used: 1165.29 MB       | 2.19%
+    Memory Available: 47106.25 MB     | 88.51%
+2025-02-15 23:27:41,919 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:41,920 - INFO - Code: sample_function()
+2025-02-15 23:27:41,920 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:41,921 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:41,921 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:42,922 - INFO - --- Resource Info ---
+    Memory Used: 218.34 MB       | 0.41%
+    Memory Increment: 23.72 MB     | 12.19%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47082.66 MB     | 88.47%
+2025-02-15 23:27:42,929 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:42,930 - INFO - Code: sample_function()
+2025-02-15 23:27:42,930 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:42,931 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:42,931 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:43,932 - INFO - --- Resource Info ---
+    Memory Used: 189.88 MB       | 0.36%
+    Memory Increment: -28.46 MB     | -13.03%
+    Max Memory Used: 1160.29 MB       | 2.18%
+    Memory Available: 47110.50 MB     | 88.52%
+2025-02-15 23:27:43,935 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:43,936 - INFO - Code: sample_function()
+2025-02-15 23:27:43,937 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:43,937 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:43,937 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:44,938 - INFO - --- Resource Info ---
+    Memory Used: 218.50 MB       | 0.41%
+    Memory Increment: 28.62 MB     | 15.07%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47080.75 MB     | 88.46%
+2025-02-15 23:27:44,945 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:44,945 - INFO - Code: sample_function()
+2025-02-15 23:27:44,945 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:44,946 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:44,946 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:45,947 - INFO - --- Resource Info ---
+    Memory Used: 194.69 MB       | 0.37%
+    Memory Increment: -23.81 MB     | -10.90%
+    Max Memory Used: 1165.29 MB       | 2.19%
+    Memory Available: 47091.08 MB     | 88.48%
+2025-02-15 23:27:45,948 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:45,948 - INFO - Code: sample_function()
+2025-02-15 23:27:45,948 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:45,948 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:45,949 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:46,949 - INFO - --- Resource Info ---
+    Memory Used: 218.41 MB       | 0.41%
+    Memory Increment: 23.72 MB     | 12.18%
+    Max Memory Used: 1189.29 MB       | 2.23%
+    Memory Available: 47081.24 MB     | 88.47%
+2025-02-15 23:27:46,955 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:46,955 - INFO - Code: sample_function()
+2025-02-15 23:27:46,956 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:46,956 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:46,956 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:47,956 - INFO - --- Resource Info ---
+    Memory Used: 190.85 MB       | 0.36%
+    Memory Increment: -27.56 MB     | -12.62%
+    Max Memory Used: 1161.29 MB       | 2.18%
+    Memory Available: 47094.31 MB     | 88.49%
+2025-02-15 23:27:47,957 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:47,957 - INFO - Code: sample_function()
+2025-02-15 23:27:47,958 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-0978c547d542>
+2025-02-15 23:27:47,959 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:27:47,959 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:48,959 - INFO - --- Resource Info ---
+    Memory Used: 190.85 MB       | 0.36%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1161.29 MB       | 2.18%
+    Memory Available: 47092.84 MB     | 88.49%
+2025-02-15 23:27:48,967 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:49,968 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: -43.19 MB     | -22.63%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47137.24 MB     | 88.57%
+2025-02-15 23:27:49,969 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:50,969 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47137.38 MB     | 88.57%
+2025-02-15 23:27:50,970 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:51,970 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47138.12 MB     | 88.57%
+2025-02-15 23:27:51,971 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:52,971 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47137.39 MB     | 88.57%
+2025-02-15 23:27:52,972 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:53,973 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47137.45 MB     | 88.57%
+2025-02-15 23:27:53,975 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:54,975 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47136.96 MB     | 88.57%
+2025-02-15 23:27:54,976 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:55,977 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47136.71 MB     | 88.57%
+2025-02-15 23:27:55,977 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:56,978 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47135.97 MB     | 88.57%
+2025-02-15 23:27:56,978 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:57,979 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47139.41 MB     | 88.57%
+2025-02-15 23:27:57,980 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:58,980 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47139.41 MB     | 88.57%
+2025-02-15 23:27:58,981 - INFO - ---------------------------------------------
+
+2025-02-15 23:27:59,981 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47139.41 MB     | 88.57%
+2025-02-15 23:27:59,982 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:00,983 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47164.39 MB     | 88.62%
+2025-02-15 23:28:00,985 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:01,986 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47176.04 MB     | 88.64%
+2025-02-15 23:28:01,986 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:02,987 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47166.60 MB     | 88.63%
+2025-02-15 23:28:02,987 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:03,988 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47166.59 MB     | 88.63%
+2025-02-15 23:28:03,988 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:04,989 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47166.36 MB     | 88.63%
+2025-02-15 23:28:04,989 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:05,990 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47166.36 MB     | 88.63%
+2025-02-15 23:28:05,991 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:06,991 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47166.36 MB     | 88.63%
+2025-02-15 23:28:06,992 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:07,993 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47166.14 MB     | 88.62%
+2025-02-15 23:28:07,995 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:08,996 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47166.14 MB     | 88.62%
+2025-02-15 23:28:08,996 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:09,997 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47166.14 MB     | 88.62%
+2025-02-15 23:28:09,998 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:10,998 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47183.63 MB     | 88.66%
+2025-02-15 23:28:10,999 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:11,999 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47184.26 MB     | 88.66%
+2025-02-15 23:28:12,000 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:13,001 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47195.74 MB     | 88.68%
+2025-02-15 23:28:13,001 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:14,002 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47201.66 MB     | 88.69%
+2025-02-15 23:28:14,002 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:15,002 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47202.46 MB     | 88.69%
+2025-02-15 23:28:15,003 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:16,005 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47199.48 MB     | 88.69%
+2025-02-15 23:28:16,005 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:17,006 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47199.48 MB     | 88.69%
+2025-02-15 23:28:17,007 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:18,007 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47199.25 MB     | 88.69%
+2025-02-15 23:28:18,008 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:19,008 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47199.01 MB     | 88.69%
+2025-02-15 23:28:19,009 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:20,009 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47199.01 MB     | 88.69%
+2025-02-15 23:28:20,010 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:21,010 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47199.01 MB     | 88.69%
+2025-02-15 23:28:21,011 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:22,011 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47197.82 MB     | 88.68%
+2025-02-15 23:28:22,012 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:23,012 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47198.31 MB     | 88.69%
+2025-02-15 23:28:23,015 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:24,015 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47208.58 MB     | 88.70%
+2025-02-15 23:28:24,015 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:25,016 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47208.14 MB     | 88.70%
+2025-02-15 23:28:25,016 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:26,017 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47209.86 MB     | 88.71%
+2025-02-15 23:28:26,017 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:27,018 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47210.90 MB     | 88.71%
+2025-02-15 23:28:27,019 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:28,020 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47211.70 MB     | 88.71%
+2025-02-15 23:28:28,020 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:29,021 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47211.45 MB     | 88.71%
+2025-02-15 23:28:29,021 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:30,022 - INFO - --- Resource Info ---
+    Memory Used: 147.66 MB       | 0.28%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1109.02 MB       | 2.08%
+    Memory Available: 47211.15 MB     | 88.71%
+2025-02-15 23:28:30,022 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:41,728 - INFO - --- Resource Info ---
+    Memory Used: 179.13 MB       | 0.34%
+    Memory Increment: 179.13 MB     | 0.00%
+    Max Memory Used: 1148.24 MB       | 2.16%
+    Memory Available: 47223.10 MB     | 88.73%
+2025-02-15 23:28:41,730 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:41,730 - INFO - Code: sample_function()
+2025-02-15 23:28:41,731 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:41,731 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:28:41,731 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:44,735 - INFO - --- Resource Info ---
+    Memory Used: 219.86 MB       | 0.41%
+    Memory Increment: 40.72 MB     | 22.73%
+    Max Memory Used: 1188.30 MB       | 2.23%
+    Memory Available: 47194.05 MB     | 88.68%
+2025-02-15 23:28:44,741 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:44,742 - INFO - Code: sample_function()
+2025-02-15 23:28:44,742 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:44,743 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:28:44,745 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:47,747 - INFO - --- Resource Info ---
+    Memory Used: 220.04 MB       | 0.41%
+    Memory Increment: 0.18 MB     | 0.08%
+    Max Memory Used: 1188.30 MB       | 2.23%
+    Memory Available: 47192.61 MB     | 88.67%
+2025-02-15 23:28:47,752 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:47,755 - INFO - Code: sample_function()
+2025-02-15 23:28:47,755 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:47,755 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:28:47,756 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:50,758 - INFO - --- Resource Info ---
+    Memory Used: 220.04 MB       | 0.41%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1188.30 MB       | 2.23%
+    Memory Available: 47205.91 MB     | 88.70%
+2025-02-15 23:28:50,766 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:50,767 - INFO - Code: sample_function()
+2025-02-15 23:28:50,767 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:50,767 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:28:50,768 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:53,770 - INFO - --- Resource Info ---
+    Memory Used: 220.09 MB       | 0.41%
+    Memory Increment: 0.04 MB     | 0.02%
+    Max Memory Used: 1188.30 MB       | 2.23%
+    Memory Available: 47205.66 MB     | 88.70%
+2025-02-15 23:28:53,777 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:53,778 - INFO - Code: sample_function()
+2025-02-15 23:28:53,779 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:53,780 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:28:53,780 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:56,782 - INFO - --- Resource Info ---
+    Memory Used: 220.20 MB       | 0.41%
+    Memory Increment: 0.11 MB     | 0.05%
+    Max Memory Used: 1188.30 MB       | 2.23%
+    Memory Available: 47206.32 MB     | 88.70%
+2025-02-15 23:28:56,789 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:56,790 - INFO - Code: sample_function()
+2025-02-15 23:28:56,790 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:56,790 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:28:56,790 - INFO - ---------------------------------------------
+
+2025-02-15 23:28:59,792 - INFO - --- Resource Info ---
+    Memory Used: 220.21 MB       | 0.41%
+    Memory Increment: 0.01 MB     | 0.01%
+    Max Memory Used: 1188.30 MB       | 2.23%
+    Memory Available: 47223.68 MB     | 88.73%
+2025-02-15 23:28:59,800 - INFO - Line: 10, Function: <module>, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:59,801 - INFO - Code: sample_function()
+2025-02-15 23:28:59,801 - INFO - Line: 7, Function: sample_function, File: <ipython-input-1-360f1a188260>
+2025-02-15 23:28:59,802 - INFO - Code: time.sleep(2)  # Simulate processing delay
+2025-02-15 23:28:59,802 - INFO - ---------------------------------------------
+
+2025-02-15 23:29:02,805 - INFO - --- Resource Info ---
+    Memory Used: 193.34 MB       | 0.36%
+    Memory Increment: -26.87 MB     | -12.20%
+    Max Memory Used: 1161.30 MB       | 2.18%
+    Memory Available: 47237.70 MB     | 88.76%
+2025-02-15 23:29:02,812 - INFO - ---------------------------------------------
+
+2025-02-15 23:29:05,815 - INFO - --- Resource Info ---
+    Memory Used: 162.70 MB       | 0.31%
+    Memory Increment: -30.64 MB     | -15.85%
+    Max Memory Used: 1130.30 MB       | 2.12%
+    Memory Available: 47263.74 MB     | 88.81%
+2025-02-15 23:29:05,815 - INFO - ---------------------------------------------
+
+2025-02-15 23:29:08,817 - INFO - --- Resource Info ---
+    Memory Used: 162.70 MB       | 0.31%
+    Memory Increment: 0.00 MB     | 0.00%
+    Max Memory Used: 1130.30 MB       | 2.12%
+    Memory Available: 47263.52 MB     | 88.81%
+2025-02-15 23:29:08,818 - INFO - ---------------------------------------------
+
