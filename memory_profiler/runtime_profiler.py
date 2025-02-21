@@ -72,7 +72,7 @@ def _print_running_code(freq):
                 ):
                     continue  # Skip logging system files
 
-                # ✅ Print only user-defined scripts
+                # Print only user-defined scripts
                 code_log = f"Line: {lineno}, Function: {funcname}, File: {filename}"
                 print(code_log)
                 logger.info(code_log)

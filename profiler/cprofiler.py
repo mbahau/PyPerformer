@@ -7,7 +7,7 @@ import os
 # ------------------------------------------------------------------------
 # CProfile | Profile of the code to track the run time of each module in the code for optimizations purpose
 # ------------------------------------------------------------------------
-def cprofile(top:int=10,sort_type:str = 'cumulative', save: str = None):
+def start(top:int=10,sort_type:str = 'cumulative', save: str = None):
     """A decorator factory to profile the code using cProfile.
     Captures the top `top` time-consuming functions.
     

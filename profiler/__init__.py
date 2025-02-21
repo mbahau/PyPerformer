@@ -1,1 +1,6 @@
-from .cprofiler import cprofile, get_help
+# dependencies
+
+
+# metadata 
+__version__ = "1.0.0"
+
